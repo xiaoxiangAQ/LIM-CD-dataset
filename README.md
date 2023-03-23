@@ -17,4 +17,4 @@ A Large-scale Incremental Monitoring Change Detection Database on High Resolutio
 
 ## Citation
 
-The paper was submitted to ISPRS GSW 2023.
+The paper will be submitted to ISPRS GSW 2023.
